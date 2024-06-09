@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🎯 About Me:
 💻 The most Passionate Software Developer.<br>🔭 I’m currently working on the Belen App<br>👯 I’m looking to collaborate on UI Design<br>🤝 I’m looking for help with UI UX <br>🌱 I’m currently learning React Native and NodeJS<br>💬 Ask me about UI UX Mobile Development <br>⚡ Fun fact. I am 12  Years Licenced Chess Player.<br>📨 Contact me at erenelagoz@gmail.com.
 
 
