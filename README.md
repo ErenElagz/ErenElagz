@@ -14,10 +14,7 @@ Feel free to check out my work or connect with me on my [GitHub profile](https:/
 [![](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/erenelagz)
 ---
 
-<div style="display: flex; flex:1; flex-direction: row; justify-content: center; align-items: center; gap: 16px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=erenelagz&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=en" alt="GitHub Stats" />
-    <img src="https://streak-stats.demolab.com?user=erenelagz&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</div>
+<img src="https://streak-stats.demolab.com?user=erenelagz&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 
 ### 💻 Tech Stack
 | **Category**          | **Technologies**                                                                                    |
@@ -26,3 +23,5 @@ Feel free to check out my work or connect with me on my [GitHub profile](https:/
 | **🧱 BackEnd**        | [![](https://skillicons.dev/icons?i=nodejs,express,nginx)](https://skillicons.dev)                  |
 | **☁️ DB, Cloud**      | [![](https://skillicons.dev/icons?i=aws,gcp,mongodb,sqlite)](https://skillicons.dev)                |
 | **🛠️ Others & Tools** | ![.](https://skillicons.dev/icons?i=figma,blender,firebase,wordpress,py,electron,tensorflow,arduino)|
+
+<img src="https://github-readme-stats.vercel.app/api?username=erenelagz&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=en" alt="GitHub Stats" />
