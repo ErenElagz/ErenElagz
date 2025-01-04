@@ -14,7 +14,10 @@ Feel free to check out my work or connect with me on my [GitHub profile](https:/
 [![](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/erenelagz)
 ---
 
-<img src="https://streak-stats.demolab.com?user=erenelagz&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+<div style="display: flex; gap: 10px;">
+  <img src="https://streak-stats.demolab.com?user=erenelagz&theme=github-dark&hide_border=true" alt="GitHub Streak" style="flex: 1;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erenelagz&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=en" alt="GitHub Stats" style="flex: 1;" />
+</div>
 
 ### 💻 Tech Stack
 | **Category**          | **Technologies**                                                                                    |
@@ -24,4 +27,3 @@ Feel free to check out my work or connect with me on my [GitHub profile](https:/
 | **☁️ DB, Cloud**      | [![](https://skillicons.dev/icons?i=aws,gcp,mongodb,sqlite)](https://skillicons.dev)                |
 | **🛠️ Others & Tools** | ![.](https://skillicons.dev/icons?i=figma,blender,firebase,wordpress,py,electron,tensorflow,arduino)|
 
-<img src="https://github-readme-stats.vercel.app/api?username=erenelagz&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=en" alt="GitHub Stats" />
