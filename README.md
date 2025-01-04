@@ -26,12 +26,10 @@ Feel free to check out my work or connect with me on my [GitHub profile](https:/
 </table>
 
 
-
 ### 💻 Tech Stack
-| **Category**          | **Technologies**                                                                                    |
-|-----------------------|-----------------------------------------------------------------------------------------------------|
-| **📱 Mobile**         | [![](https://skillicons.dev/icons?i=react,androidstudio)](https://github.com/erenelagz)             |
-| **🧱 BackEnd**        | [![](https://skillicons.dev/icons?i=nodejs,express,nginx)](https://skillicons.dev)                  |
-| **☁️ DB, Cloud**      | [![](https://skillicons.dev/icons?i=aws,gcp,mongodb,sqlite)](https://skillicons.dev)                |
-| **🛠️ Others & Tools** | ![.](https://skillicons.dev/icons?i=figma,blender,firebase,wordpress,py,electron,tensorflow,arduino)|
+
+| **📱 Mobile**         | **🧱 BackEnd**              | **☁️ DB, Cloud**       | **🛠️ Others & Tools**                                                |
+|-----------------------|----------------------------|------------------------|----------------------------------------------------------------------|
+| [![](https://skillicons.dev/icons?i=react,androidstudio)](https://github.com/erenelagz) | [![](https://skillicons.dev/icons?i=nodejs,express,nginx)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=aws,gcp,mongodb,sqlite)](https://skillicons.dev) | ![.](https://skillicons.dev/icons?i=figma,blender,firebase,wordpress,py,electron,tensorflow,arduino) |
+
 
