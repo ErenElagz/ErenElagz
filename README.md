@@ -5,7 +5,6 @@ I'm a software developer passionate about creating my own projects and exploring
 - Previously developed projects like [Atlas](https://github.com/ErenElagz/Atlas), [PyFarm](https://github.com/ErenElagz/PyFarm), and [Football Manager Game](https://github.com/ErenElagz/Football-Manager-Game).
 
 Feel free to check out my work or connect with me on my [GitHub profile](https://github.com/ErenElagz)!
---- 
 
 ### 📫 Contact Me
 [![](https://skillicons.dev/icons?i=gmail)](mailto:erenelagz@gmail.com)
@@ -15,7 +14,7 @@ Feel free to check out my work or connect with me on my [GitHub profile](https:/
 [![](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/erenelagz)
 ---
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 16px;">
+<div style="display: flex; flex:1; flex-direction: row; justify-content: center; align-items: center; gap: 16px;">
     <img src="https://github-readme-stats.vercel.app/api?username=erenelagz&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=en" alt="GitHub Stats" />
     <img src="https://streak-stats.demolab.com?user=erenelagz&theme=github-dark&hide_border=true" alt="GitHub Streak" />
 </div>
