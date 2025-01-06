@@ -5,7 +5,7 @@ I'm a software developer passionate about creating my own projects and exploring
 - Previously developed projects like [Atlas](https://github.com/ErenElagz/Atlas), [PyFarm](https://github.com/ErenElagz/PyFarm), and [Football Manager Game](https://github.com/ErenElagz/Football-Manager-Game).
 
 Feel free to check out my work or connect with me on my [GitHub profile](https://github.com/ErenElagz)!
-
+---
 ### 📫 Contact Me
 [![](https://skillicons.dev/icons?i=gmail)](mailto:erenelagz@gmail.com)
 [![](https://skills-icons.vercel.app/api/icons?i=x)](https://twitter.com/erenelagz)
@@ -13,7 +13,12 @@ Feel free to check out my work or connect with me on my [GitHub profile](https:/
 [![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/erenelagz)
 [![](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/erenelagz)
 ---
-
+### 😁 Follow Me
+[![YouTube](https://github.com/user-attachments/assets/820d12e2-799f-4f53-aa31-f7c53aecbc5e)](https://www.youtube.com/@erenelagz)
+[![Dribbble](https://github.com/user-attachments/assets/d14ef42e-67c9-47fa-89c9-4bdfb9ce0f03)](https://dribbble.com/ErenElagz)
+[![Medium](https://github.com/user-attachments/assets/2e2a1d90-d762-4c54-a98d-c87a7d2928c9)](https://medium.com/@ErenElagz)
+[![Behance](https://github.com/user-attachments/assets/b467400f-064c-424a-8b61-396b5cb22fb4)](https://behance.net/ErenElagz)
+---
 ### 📈 Stats
 <table>
   <tr>
