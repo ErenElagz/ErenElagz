@@ -23,7 +23,7 @@ Feel free to check out my work or connect with me on my [GitHub profile](https:/
 <table>
   <tr>
     <td>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=erenelagz&theme=dark" alt="GitHub Streak" /></a>    </td>
+      <img src="https://streak-stats.demolab.com?user=erenelagz&theme=github-dark&hide_border=true" alt="GitHub Streak" width="400" />
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=erenelagz&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=en" alt="GitHub Stats" width="400" />
     </td>
