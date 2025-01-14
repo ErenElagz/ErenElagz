@@ -6,6 +6,7 @@ I'm a software developer passionate about creating my own projects and exploring
 
 Feel free to check out my work or connect with me on my [GitHub profile](https://github.com/ErenElagz)!
 ---
+
 ### 📫 Contact Me
 [![](https://skillicons.dev/icons?i=gmail)](mailto:erenelagz@gmail.com)
 [![](https://skills-icons.vercel.app/api/icons?i=x)](https://twitter.com/erenelagz)
