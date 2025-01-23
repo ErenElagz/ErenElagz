@@ -8,6 +8,7 @@ Feel free to check out my work or connect with me on my [GitHub profile](https:/
 ---
 
 ### 📫 Contact Me
+[![](https://github.com/user-attachments/assets/571e209d-4fac-4689-8f2f-2b3e3045ffb3)](https://www.erenelagz.com)
 [![](https://skillicons.dev/icons?i=gmail)](mailto:erenelagz@gmail.com)
 [![](https://skills-icons.vercel.app/api/icons?i=x)](https://twitter.com/erenelagz)
 [![](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/erenelagz)
@@ -15,10 +16,11 @@ Feel free to check out my work or connect with me on my [GitHub profile](https:/
 [![](https://skillicons.dev/icons?i=discord)](https://discordapp.com/users/erenelagz)
 ---
 ### 😁 Follow Me
-[![Behance](https://github.com/user-attachments/assets/b467400f-064c-424a-8b61-396b5cb22fb4)](https://behance.net/ErenElagz)
-[![Dribbble](https://github.com/user-attachments/assets/d14ef42e-67c9-47fa-89c9-4bdfb9ce0f03)](https://dribbble.com/ErenElagz)
-[![YouTube](https://github.com/user-attachments/assets/820d12e2-799f-4f53-aa31-f7c53aecbc5e)](https://www.youtube.com/@erenelagz)
-[![Medium](https://github.com/user-attachments/assets/2e2a1d90-d762-4c54-a98d-c87a7d2928c9)](https://medium.com/@ErenElagz)
+[![](https://github.com/user-attachments/assets/b467400f-064c-424a-8b61-396b5cb22fb4)](https://behance.net/ErenElagz)
+[![](https://github.com/user-attachments/assets/d14ef42e-67c9-47fa-89c9-4bdfb9ce0f03)](https://dribbble.com/ErenElagz)
+[![](https://github.com/user-attachments/assets/820d12e2-799f-4f53-aa31-f7c53aecbc5e)](https://www.youtube.com/@erenelagz)
+[![](https://github.com/user-attachments/assets/2e2a1d90-d762-4c54-a98d-c87a7d2928c9)](https://medium.com/@ErenElagz)
+
 ---
 ### 📈 Stats
 <table>
