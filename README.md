@@ -3,8 +3,9 @@
 I'm a software developer passionate about creating my own projects and exploring new technologies.
 - Currently working on the [HitBis](https://github.com/ErenElagz/HitBis) project.
 - Previously developed projects like [Atlas](https://github.com/ErenElagz/Atlas), [PyFarm](https://github.com/ErenElagz/PyFarm), and [Football Manager Game](https://github.com/ErenElagz/Football-Manager-Game).
+- I wrote a E-Book for the Developers and It is free and Open Source you can check in this repository [**All in Dev**](https://github.com/ErenElagz/all-in-dev)
 
-Feel free to check out my work or connect with me on my [GitHub profile](https://github.com/ErenElagz)!
+Feel free to check out my work or connect with me!
 ---
 
 ### 📫 Contact Me
@@ -15,12 +16,14 @@ Feel free to check out my work or connect with me on my [GitHub profile](https:/
 [![](https://github.com/user-attachments/assets/f5776de2-7387-4373-b9c0-8fbd9edd05e2)](https://www.instagram.com/erenelagz)
 [![](https://github.com/user-attachments/assets/885f5f3c-8d95-4663-95d0-f69766934e27)](https://discordapp.com/users/erenelagz)
 ---
+
 ### 😁 Follow Me
 [![](https://github.com/user-attachments/assets/b467400f-064c-424a-8b61-396b5cb22fb4)](https://behance.net/ErenElagz)
 [![](https://github.com/user-attachments/assets/d14ef42e-67c9-47fa-89c9-4bdfb9ce0f03)](https://dribbble.com/ErenElagz)
 [![](https://github.com/user-attachments/assets/820d12e2-799f-4f53-aa31-f7c53aecbc5e)](https://www.youtube.com/@erenelagz)
 [![](https://github.com/user-attachments/assets/2e2a1d90-d762-4c54-a98d-c87a7d2928c9)](https://medium.com/@ErenElagz)
 ---
+
 ### 📈 Stats
 <table>
   <tr>
