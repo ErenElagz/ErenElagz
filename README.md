@@ -10,7 +10,7 @@ Feel free to check out my work or connect with me!
 
 ### 📫 Contact Me
 [![](https://github.com/user-attachments/assets/04c0db58-ee12-4ba1-881d-28931b6ac1f3)](https://www.erenelagz.com)
-[![](https://github.com/user-attachments/assets/bffcecb9-f76a-40f3-8649-d3ef9a0e67a8)](mailto:erenelagz@gmail.com)
+[![](https://github.com/user-attachments/assets/bffcecb9-f76a-40f3-8649-d3ef9a0e67a8)](mailto:erenelagoz@gmail.com)
 [![](https://github.com/user-attachments/assets/186b5d40-723b-474b-9e05-0d67016c24bf)](https://twitter.com/erenelagz)
 [![](https://github.com/user-attachments/assets/0b46fb45-a655-4476-b4f0-d45db74a3cc6)](https://www.linkedin.com/in/erenelagz)
 [![](https://github.com/user-attachments/assets/f5776de2-7387-4373-b9c0-8fbd9edd05e2)](https://www.instagram.com/erenelagz)
