@@ -38,6 +38,6 @@ Feel free to check out my work or connect with me!
 ### 💻 Tech Stack
 | 📱 Mobile | 🧱 BackEnd |  ☁️ Cloud & Database | 🛠️ Others & Tools |
 |-----------------------|----------------------------|------------------------|----------------------------------------------------------------------|
-| [![](https://skillicons.dev/icons?i=react,androidstudio)](https://github.com/erenelagz) | [![](https://skillicons.dev/icons?i=nodejs,express,nginx)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=aws,gcp,mongodb,sqlite)](https://skillicons.dev) | ![.](https://skillicons.dev/icons?i=figma,blender,firebase,wordpress,electron,tensorflow,arduino) |
+| [![](https://skillicons.dev/icons?i=react,androidstudio)](https://github.com/erenelagz) | [![](https://skillicons.dev/icons?i=nodejs,express,nginx)](https://skillicons.dev) | [![](https://skillicons.dev/icons?i=aws,gcp,mongodb,sqlite)](https://skillicons.dev) | ![.](https://skillicons.dev/icons?i=figma,nextjs,python,blender,firebase,wordpress,electron,tensorflow,arduino) |
 
 
