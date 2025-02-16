@@ -22,6 +22,7 @@ Feel free to check out my work or connect with me!
 [![](https://github.com/user-attachments/assets/d14ef42e-67c9-47fa-89c9-4bdfb9ce0f03)](https://dribbble.com/ErenElagz)
 [![](https://github.com/user-attachments/assets/820d12e2-799f-4f53-aa31-f7c53aecbc5e)](https://www.youtube.com/@erenelagz)
 [![](https://github.com/user-attachments/assets/2e2a1d90-d762-4c54-a98d-c87a7d2928c9)](https://medium.com/@ErenElagz)
+[![](https://skillicons.dev/icons?i=devto)](https://dev.to/@ErenElagz)
 ---
 
 ### 📈 Stats
