@@ -4,6 +4,7 @@ I'm a software developer passionate about creating my own projects and exploring
 - Currently working on the [Leckham](https://play.google.com/store/apps/details?id=com.leckham) project.
 - Previously developed projects like [Atlas](https://github.com/ErenElagz/Atlas), [PyFarm](https://github.com/ErenElagz/PyFarm), and [Football Manager Game](https://github.com/ErenElagz/Football-Manager-Game).
 - I wrote a E-Book for the Developers and It is free and Open Source you can check in this repository [**All in Dev**](https://github.com/ErenElagz/all-in-dev)
+- I made a template for Company Managment System on Notion. Check out here [CompanyOs](https://erenelagoz.gumroad.com/l/company-os)
 
 Feel free to check out my work or connect with me!
 ---
